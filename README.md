@@ -1,2 +1,0 @@
-# mikaelkristoffersen.github.io
-Website
