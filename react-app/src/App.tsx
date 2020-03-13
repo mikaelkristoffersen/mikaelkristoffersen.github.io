@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Assignment 1 - AWS page
+          My Gatsby starter Page
         </a>
       </header>
     </div>
